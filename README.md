@@ -2,6 +2,10 @@
 
 a simple http server for testing elixir code
 
+## Deprecation Warning!
+
+This project is deprecated. It was originally intended as a lightweight tool for testing HTTP endpoints. We recommend [bypass](https://github.com/PSPDFKit-labs/bypass) instead.
+
 ## Installation
 
 ```elixir
